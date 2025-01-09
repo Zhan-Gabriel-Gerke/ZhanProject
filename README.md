@@ -16,4 +16,5 @@ git push
 
 Vaata ka minu konspekti WP-portfoolios:
 <a href="https://zhan-gabrielgerke24.thkit.ee/wp/" target="_blank">WP Link</a>
+
 This site was built using [GitHub Pages](https://pages.github.com/).

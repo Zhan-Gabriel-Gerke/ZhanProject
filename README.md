@@ -19,4 +19,4 @@ Vaata ka minu konspekti WP-portfoolios:
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1396484%2Fmediaindex%2F&psig=AOvVaw2sdz3nQKA_CJzkM1eUtmmx&ust=1736492554228000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD8lICJ6IoDFQAAAAAdAAAAABAJ
+![image](https://github.com/user-attachments/assets/22c20d04-f1ec-4f2b-be2a-c133c365b919)
